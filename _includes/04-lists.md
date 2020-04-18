@@ -7,4 +7,3 @@
 * Another item B 😎
   * Another item B(a) 😂
   * Another item B(b) 🤪
-  :bowtie:
