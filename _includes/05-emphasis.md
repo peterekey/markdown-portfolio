@@ -13,6 +13,6 @@ __And this text is bold__
 
 # Examples
 
-_I am now **combining** the two__
-But to be _completely **honest**__
+__I am now **combining** the two__
+But to be __completely **honest**__
 I try to __avoid__ emphasising text using *italics* and __bold text__.
